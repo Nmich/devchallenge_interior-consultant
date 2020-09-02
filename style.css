@@ -1,0 +1,22 @@
+body, .card {
+  background-color: #181719;
+  color: #fff;
+}
+
+#logo {
+  font-family: 'Crimson Pro', serif;
+}
+#main-title, .card-title{
+  font-family: 'Lora', serif;
+}
+.card, #presentation {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.card p{
+  color: #828282;
+}
+.card-shadow{box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)}
+footer p{
+  color: #A9A9A9;
+  border-color: #A9A9A9;}
